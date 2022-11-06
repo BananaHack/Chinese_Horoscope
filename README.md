@@ -1,2 +1,2 @@
 # Chinese_Horoscope
-Converting Gregorian years to Chinese calendar years
+Определение, каким был/есть/будет год по китайскому календарю.
